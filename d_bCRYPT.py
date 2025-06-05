@@ -1,3 +1,5 @@
+#!/bin/python3
+
 import bcrypt, asyncio, aiofiles, argparse
 from time import time
 from colorama import Fore
