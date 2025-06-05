@@ -1,3 +1,7 @@
+<div align="center">
+  <p>This text is centered.</p>
+</div>
+
 ![cooltext483969813289394](https://github.com/user-attachments/assets/7db99ebd-4d8d-4d26-a149-efbf9a438223)
 
 Before Using The Tool Please Check If All The Packages Has Been Installed.
