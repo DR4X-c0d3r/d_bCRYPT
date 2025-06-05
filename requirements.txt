@@ -1,0 +1,5 @@
+aiofiles==23.1.0
+async-generator==1.10
+async-timeout==4.0.2
+bcrypt==3.2.2
+colorama==0.4.6
