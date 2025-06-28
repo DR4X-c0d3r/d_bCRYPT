@@ -35,8 +35,11 @@ USAGE:
 
 ![list_pass](https://github.com/user-attachments/assets/d7072894-7f08-4a68-a3ed-6ea7e9194591)
 
-
 **Please If Any Problem Happend Tell Me In The Server Channel =>** [https://discord.gg/Hunt3rs](https://discord.gg/Cw6YZgqGzS)
+
+**YouTube =>** https://youtube.com/fr4nc0x1
+
+**TryHackMe =>** https://tryhackme.com/p/DR4X
 
 That's It For Now And I Hope This Tool Makes Your Day Awesome, Remember With Great Power Comes Great Responsibility!
 
